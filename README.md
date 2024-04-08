@@ -1,2 +1,4 @@
 # Coding-Challenges
-WebDevDaily challenges
+Frontend Mentor Challenges
+<br>
+1 every day
